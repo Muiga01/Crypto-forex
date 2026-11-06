@@ -12,7 +12,7 @@ The Crypto Forex project aims to provide users with insights and tools for tradi
 To install the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/ahmedlakhani0-dotcom/Crypto-forex.git
+git clone https://muiga01.github.io
 cd Crypto-forex
 ```
 
